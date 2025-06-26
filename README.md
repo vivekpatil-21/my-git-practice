@@ -1,2 +1,2 @@
 "# My Git Practice Project" 
-This Update adds details about a new feature.
+Git Hub 1st Assignment for set up and creation completed!!
