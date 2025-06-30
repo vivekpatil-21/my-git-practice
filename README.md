@@ -1,2 +1,2 @@
 "# My Git Practice Project" 
-This Update adds details about a new feature.
+Sucessfully added new branch named as feature update.
